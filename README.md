@@ -6,7 +6,7 @@
 
  #  💻 I'm a Software Engineering student
  #  🌐 I'm experienced in Java, Python, C++ and a few others.
- #  🎓 I'm a Software engineering student 3rd year of my B.SC
+ #  🎓 I'm a Software engineering student final year of my B.SC
 </p>
 
  </div>
