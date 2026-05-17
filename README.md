@@ -4,9 +4,9 @@
  <p align="center">
     <img width="460" height="300" src="https://user-images.githubusercontent.com/68163421/110490500-0e4be900-80f9-11eb-8494-8fba49a4cf9b.jpg">
 
- #  💻 I'm an experienced Full-Stack developer and project co-ordinator.
- #  🌐 I'm experienced in React, Node, Next and a few other technologies.
- #  🎓 I Possess a Software Engineering bachelors degree.
+ #  💻 Full-Stack engineer with hands-on experience across the entire product lifecycle — from architecture to deployment.
+ #  🌐 Specializing in React, Node.js, and Next.js, with exposure to [add your others, e.g. TypeScript, PostgreSQL, Docker].
+ #  🎓 BSc in Software Engineering, cum laude.
 </p>
 
  </div>
